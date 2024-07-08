@@ -64,11 +64,11 @@ Week 6:<br />
 
 ### Python #3
 - Video: [NextGenAI-2024 | Python #3](https://www.youtube.com/watch?v=-jE0re3eopc)
-- Code: [NextGen_AI_Camp_Python#3.ipynb]()
+- Code: [NextGen_AI_Camp_Python#3.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/Python%233/NextGen_AI_Camp_Python%233.ipynb)
 
 ### Python #4
 - Video: [NextGenAI-2024 | Python #4](https://www.youtube.com/watch?v=HS5fKKy3Wyw&t=466s)
-- Code: [NextGen_AI_Camp_Python#4.ipynb]()
+- Code: [NextGen_AI_Camp_Python#4.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/Python%234/NextGen_AI_Camp_Python%234.ipynb)
 
 ### Neural Network
 - Video: [coming soon]
