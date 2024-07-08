@@ -57,3 +57,18 @@ Week 6:<br />
 
 - Video: [Introduction to AI, ML, DL](https://youtube.com/playlist?list=PLnDwFN2GE8GIZGbqWfCapbwQFcXnL9vsA&si=nWkr3v6Z-ILdPXSe)
 - Slide: [Introduction to AI, ML, DL](https://docs.google.com/presentation/d/1vKFInRRmAoWwwVsu4yFr9YeDIASOqNjCK_bzeeHfm0k/edit?usp=sharing)
+
+---
+
+## Week 2:
+
+### Python #3
+- Video: [NextGenAI-2024 | Python #3](https://www.youtube.com/watch?v=-jE0re3eopc)
+- Code: [NextGen_AI_Camp_Python#3.ipynb]()
+
+### Python #4
+- Video: [NextGenAI-2024 | Python #4](https://www.youtube.com/watch?v=HS5fKKy3Wyw&t=466s)
+- Code: [NextGen_AI_Camp_Python#4.ipynb]()
+
+### Neural Network
+- Video: [coming soon]
