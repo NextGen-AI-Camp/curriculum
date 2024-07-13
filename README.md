@@ -10,7 +10,7 @@ Week 2:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Python #3](#python-3)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Python #4](#python-4)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Neural Network #1](#neural-network-1)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[NumPy #1](#numpy-1)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[NumPy](#numpy-1)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Matplotlib](#matplotlib)<br />
 
 Week 3:<br />
@@ -83,7 +83,7 @@ NumPy #1 [2 Hrs.] : What is NumPy, Create NumPy, NumPy Shape, Slice, Function, Z
 NumPy #2 [2 Hrs.]: Reshape, Resize, Flatten, Transpose, ฟังก์ชันทางสถิติ, dot product, concatenate, stack, load, save, etc<br />
 - Video: [NextGenAI-2024 | Numpy #1](https://www.youtube.com/watch?v=yVS3yHCMwe0)
 - Video: [NextGenAI-2024 | Numpy #2](https://www.youtube.com/watch?v=YjqnYpRbiOE)
-- Code: [NextGen_AI_Camp_NumPy#1.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/NumPy%231/NextGen_AI_Camp_NumPy%231.ipynb)
+- Code: [NextGen_AI_Camp_NumPy.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/NumPy/NextGen_AI_Camp_NumPy.ipynb)
   
 ### Matplotlib
 Matplotlib [1 Hrs] : What is Matplotlib, Basic Chart, Line Chart, xlabel and ylabel, Bar Chart, Save chart to file, Line Style, Title and Legend Function, Scatter Plots, Color and Marker, Line Style, Title and Legend Function, Scatter Plots, Histogram, Plotting in real time, Confusion matrix
