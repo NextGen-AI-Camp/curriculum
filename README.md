@@ -79,8 +79,8 @@ Week 6:<br />
 - Code: [NextGen_AI_Camp_Neural_Network1.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/NN%231/NextGen_AI_Camp_Neural_Network1.ipynb)
 
 ### NumPy #1
-NumPy #1 [2 Hrs.] : What is NumPy, Create NumPy, NumPy Shape, Slice, Function, Zeros, Ones, Random, Arange, Operator
-NumPy #2 [2 Hrs.]: Reshape, Resize, Flatten, Transpose, ฟังก์ชันทางสถิติ, dot product, concatenate, stack, load, save, etc
+NumPy #1 [2 Hrs.] : What is NumPy, Create NumPy, NumPy Shape, Slice, Function, Zeros, Ones, Random, Arange, Operator<br />
+NumPy #2 [2 Hrs.]: Reshape, Resize, Flatten, Transpose, ฟังก์ชันทางสถิติ, dot product, concatenate, stack, load, save, etc<br />
 - Video: [NextGenAI-2024 | Numpy #1](https://www.youtube.com/watch?v=yVS3yHCMwe0)
 - Video: [NextGenAI-2024 | Numpy #2](https://www.youtube.com/watch?v=YjqnYpRbiOE)
 - Code: [NextGen_AI_Camp_NumPy#1.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/NumPy%231/NextGen_AI_Camp_NumPy%231.ipynb)
