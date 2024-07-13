@@ -10,7 +10,7 @@ Week 2:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Python #3](#python-3)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Python #4](#python-4)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Neural Network #1](#neural-network-1)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[NumPy](#NumPy)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[NumPy](#numpy)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Matplotlib](#matplotlib)<br />
 
 Week 3:<br />
@@ -79,13 +79,12 @@ Week 6:<br />
 - Code: [NextGen_AI_Camp_Neural_Network1.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/NN%231/NextGen_AI_Camp_Neural_Network1.ipynb)
 
 ### NumPy
-NumPy #1 [2 Hrs.] : What is NumPy, Create NumPy, NumPy Shape, Slice, Function, Zeros, Ones, Random, Arange, Operator<br />
-NumPy #2 [2 Hrs.]: Reshape, Resize, Flatten, Transpose, ฟังก์ชันทางสถิติ, dot product, concatenate, stack, load, save, etc<br />
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ NumPy ซึ่งเป็นไลบรารีสำคัญใน Python สำหรับการคำนวณเชิงตัวเลข เริ่มต้นด้วยการทำความเข้าใจว่า NumPy คืออะไรและวิธีการสร้างอาร์เรย์ NumPy เรียนรู้การทำงานกับรูปร่างของอาร์เรย์ (shape) การตัดส่วนของอาร์เรย์ (slice) และการใช้ฟังก์ชันต่าง ๆ ของ NumPy รวมถึงการสร้างอาร์เรย์ที่ประกอบด้วยค่าเริ่มต้น เช่น zeros และ ones การสร้างค่าแบบสุ่ม (random) และการใช้ฟังก์ชัน arange ในการสร้างลำดับข้อมูล นอกจากนี้ จะได้เรียนรู้การปรับเปลี่ยนรูปร่างของอาร์เรย์ด้วยฟังก์ชัน reshape และ resize การทำให้อาร์เรย์แบนราบด้วย flatten และการสลับแกนของอาร์เรย์ด้วย transpose การใช้ฟังก์ชันทางสถิติ เช่น mean, median, standard deviation การคำนวณผลคูณจุด (dot product) การต่ออาร์เรย์ด้วย concatenate และการซ้อนอาร์เรย์ด้วย stack สุดท้าย จะได้เรียนรู้การโหลดและบันทึกข้อมูล NumPy ด้วยฟังก์ชัน load และ save เพื่อช่วยให้สามารถจัดการและใช้ประโยชน์จากข้อมูลได้อย่างมีประสิทธิภาพ
 - Video: [NextGenAI-2024 | Numpy #1](https://www.youtube.com/watch?v=yVS3yHCMwe0)
 - Video: [NextGenAI-2024 | Numpy #2](https://www.youtube.com/watch?v=YjqnYpRbiOE)
 - Code: [NextGen_AI_Camp_NumPy.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/NumPy/NextGen_AI_Camp_NumPy.ipynb)
   
 ### Matplotlib
-Matplotlib [1 Hrs] : What is Matplotlib, Basic Chart, Line Chart, xlabel and ylabel, Bar Chart, Save chart to file, Line Style, Title and Legend Function, Scatter Plots, Color and Marker, Line Style, Title and Legend Function, Scatter Plots, Histogram, Plotting in real time, Confusion matrix
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Matplotlib ซึ่งเป็นไลบรารีที่สำคัญสำหรับการสร้างกราฟและการแสดงข้อมูลใน Python เริ่มต้นด้วยการทำความเข้าใจว่า Matplotlib คืออะไรและวิธีการสร้างกราฟพื้นฐาน (Basic Chart) และกราฟเส้น (Line Chart) รวมถึงการตั้งชื่อแกน x (xlabel) และแกน y (ylabel) การสร้างกราฟแท่ง (Bar Chart) และการบันทึกกราฟลงไฟล์ (Save chart to file) จะได้เรียนรู้การปรับแต่งลักษณะเส้น (Line Style) การเพิ่มชื่อกราฟ (Title) และคำอธิบายกราฟ (Legend Function) นอกจากนี้จะครอบคลุมการสร้างกราฟกระจาย (Scatter Plots) การเลือกสีและเครื่องหมาย (Color and Marker) และการสร้างฮิสโตแกรม (Histogram) สุดท้ายจะได้เรียนรู้การ Plotting in real time และการสร้าง confusion matrix เพื่อวิเคราะห์ผลลัพธ์ของโมเดล
 - Video [NextGenAI-2024 | Matplotlib](https://www.youtube.com/watch?v=CwbLB9U-MH0)
 - Code: [NextGen_AI_Camp_Matplotlib.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/Matplotlib/NextGen_AI_Camp_Matplotlib.ipynb)
