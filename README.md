@@ -10,7 +10,7 @@ Week 2:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Python #3](#python-3)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Python #4](#python-4)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Neural Network #1](#neural-network-1)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[NumPy](#numpy-1)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[NumPy](#NumPy)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Matplotlib](#matplotlib)<br />
 
 Week 3:<br />
