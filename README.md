@@ -15,9 +15,8 @@ Week 2:<br />
 
 Week 3:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Neural Network #2](#neural-network-2)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[NumPy #2](#numpy-2)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Pandas](#pandas)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[Pytorch #1](#pytorch-1)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[PyTorch](#pytorch)<br />
 
 Week 4:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[Neural Network #3](#neural-network-3)<br />
@@ -86,5 +85,27 @@ Week 6:<br />
   
 ### Matplotlib
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Matplotlib ซึ่งเป็นไลบรารีที่สำคัญสำหรับการสร้างกราฟและการแสดงข้อมูลใน Python เริ่มต้นด้วยการทำความเข้าใจว่า Matplotlib คืออะไรและวิธีการสร้างกราฟพื้นฐาน (Basic Chart) และกราฟเส้น (Line Chart) รวมถึงการตั้งชื่อแกน x (xlabel) และแกน y (ylabel) การสร้างกราฟแท่ง (Bar Chart) และการบันทึกกราฟลงไฟล์ (Save chart to file) จะได้เรียนรู้การปรับแต่งลักษณะเส้น (Line Style) การเพิ่มชื่อกราฟ (Title) และคำอธิบายกราฟ (Legend Function) นอกจากนี้จะครอบคลุมการสร้างกราฟกระจาย (Scatter Plots) การเลือกสีและเครื่องหมาย (Color and Marker) และการสร้างฮิสโตแกรม (Histogram) สุดท้ายจะได้เรียนรู้การ Plotting in real time และการสร้าง confusion matrix เพื่อวิเคราะห์ผลลัพธ์ของโมเดล
-- Video [NextGenAI-2024 | Matplotlib](https://www.youtube.com/watch?v=CwbLB9U-MH0)
+- Video: [NextGenAI-2024 | Matplotlib](https://www.youtube.com/watch?v=CwbLB9U-MH0)
 - Code: [NextGen_AI_Camp_Matplotlib.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/Matplotlib/NextGen_AI_Camp_Matplotlib.ipynb)
+
+---
+
+## Week 3:
+
+### Neural Network #2
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับโครงข่ายประสาทเทียมแบบหลายชั้น (Multi-Layer Neural Network) ซึ่งเป็นโครงสร้างพื้นฐานที่ทำให้โมเดลสามารถเรียนรู้รูปแบบที่ซับซ้อนได้ จะได้ทำความเข้าใจการประมาณค่าแบบ Non Linear ซึ่งช่วยให้โมเดลสามารถจับความสัมพันธ์ที่ซับซ้อนระหว่างข้อมูลได้ดีขึ้น นอกจากนี้จะเรียนรู้เกี่ยวกับวงรอบของการสอน AI (Training Loop) ซึ่งประกอบด้วยการปรับปรุงพารามิเตอร์ของโมเดลในแต่ละขั้นตอนการสอน และ Backpropagation ซึ่งเป็นกระบวนการในการคำนวณและปรับปรุงค่าความผิดพลาด (error) ผ่านการปรับน้ำหนักของเครือข่าย จะได้เรียนรู้เกี่ยวกับ Activation Function ซึ่งเป็นฟังก์ชันที่ใช้ในแต่ละนิวรอนเพื่อเพิ่มความสามารถในการเรียนรู้ของโมเดล นอกจากนี้ยังจะครอบคลุมการวัดประสิทธิภาพของโมเดลเพื่อประเมินผลการเรียนรู้ และการทดสอบและปรับแต่ง (Fine Tune) โมเดล Neural Network แบบง่ายเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด
+
+- Video: [COMING SOON]
+- Code: [COMING SOON]
+
+### Pandas
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Pandas ซึ่งเป็นไลบรารีสำคัญใน Python สำหรับการจัดการและวิเคราะห์ข้อมูล เริ่มต้นด้วยการทำความเข้าใจ DataFrame ซึ่งเป็นโครงสร้างข้อมูลหลักใน Pandas และวิธีการสร้างและใช้งาน DataFrame จากนั้นจะได้เรียนรู้การอ่านและเขียนข้อมูลจากและไปยังไฟล์ในรูปแบบต่าง ๆ เช่น xlsx และ json นอกจากนี้จะได้เรียนรู้เกี่ยวกับชนิดข้อมูล (Data Type) และวิธีการตรวจสอบข้อมูลด้วยฟังก์ชัน info รวมถึงการใช้ indexing เพื่อเข้าถึงและจัดการข้อมูล จะได้ทำความเข้าใจกับวิธีการจัดการกับข้อมูลที่หายไป (missing data) ด้วยการลบ (Drop) การเติม (Fill) และการแทนที่ (Replace) ข้อมูล สุดท้ายจะครอบคลุมการลบข้อมูลที่ซ้ำซ้อน (Drop duplicate) เพื่อให้ DataFrame มีความถูกต้องและมีคุณภาพมากขึ้น
+
+- Video: [COMING SOON]
+- Code: [COMING SOON]
+
+### PyTorch
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Pytorch และการใช้งาน tensors ซึ่งเป็นโครงสร้างข้อมูลหลักใน Pytorch รวมถึง ndim, item, และ shape ของ tensors การสร้าง random tensors, zero tensors และ one tensors การใช้ arange, การจัดการ datatype และ dtype การดำเนินการทางคณิตศาสตร์พื้นฐาน เช่น add, sub, multiply, divide, matrix mul การหา max, min, mean, sum ของ tensors การใช้ argmax และ argmin การปรับรูปร่างของ tensors ด้วย reshape และ view รวมถึงการ stack และ indexing การสร้าง tensors จาก NumPy ด้วย from_numpy และการแปลง tensors เป็น NumPy ด้วย .numpy
+
+- Video: [COMING SOON]
+- Code: [COMING SOON]
