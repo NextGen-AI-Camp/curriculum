@@ -79,8 +79,8 @@ Week 6:<br />
 
 ### NumPy
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ NumPy ซึ่งเป็นไลบรารีสำคัญใน Python สำหรับการคำนวณเชิงตัวเลข เริ่มต้นด้วยการทำความเข้าใจว่า NumPy คืออะไรและวิธีการสร้างอาร์เรย์ NumPy เรียนรู้การทำงานกับรูปร่างของอาร์เรย์ (shape) การตัดส่วนของอาร์เรย์ (slice) และการใช้ฟังก์ชันต่าง ๆ ของ NumPy รวมถึงการสร้างอาร์เรย์ที่ประกอบด้วยค่าเริ่มต้น เช่น zeros และ ones การสร้างค่าแบบสุ่ม (random) และการใช้ฟังก์ชัน arange ในการสร้างลำดับข้อมูล นอกจากนี้ จะได้เรียนรู้การปรับเปลี่ยนรูปร่างของอาร์เรย์ด้วยฟังก์ชัน reshape และ resize การทำให้อาร์เรย์แบนราบด้วย flatten และการสลับแกนของอาร์เรย์ด้วย transpose การใช้ฟังก์ชันทางสถิติ เช่น mean, median, standard deviation การคำนวณผลคูณจุด (dot product) การต่ออาร์เรย์ด้วย concatenate และการซ้อนอาร์เรย์ด้วย stack สุดท้าย จะได้เรียนรู้การโหลดและบันทึกข้อมูล NumPy ด้วยฟังก์ชัน load และ save เพื่อช่วยให้สามารถจัดการและใช้ประโยชน์จากข้อมูลได้อย่างมีประสิทธิภาพ
-- Video: [NextGenAI-2024 | Numpy #1](https://www.youtube.com/watch?v=yVS3yHCMwe0)
-- Video: [NextGenAI-2024 | Numpy #2](https://www.youtube.com/watch?v=YjqnYpRbiOE)
+- Video: [NextGenAI-2024 | Numpy #1](https://www.youtube.com/watch?v=yVS3yHCMwe0)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Numpy #2](https://www.youtube.com/watch?v=YjqnYpRbiOE)
 - Code: [NextGen_AI_Camp_NumPy.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%232/NumPy/NextGen_AI_Camp_NumPy.ipynb)
   
 ### Matplotlib
@@ -95,8 +95,9 @@ Week 6:<br />
 ### Neural Network #2
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับโครงข่ายประสาทเทียมแบบหลายชั้น (Multi-Layer Neural Network) ซึ่งเป็นโครงสร้างพื้นฐานที่ทำให้โมเดลสามารถเรียนรู้รูปแบบที่ซับซ้อนได้ จะได้ทำความเข้าใจการประมาณค่าแบบ Non Linear ซึ่งช่วยให้โมเดลสามารถจับความสัมพันธ์ที่ซับซ้อนระหว่างข้อมูลได้ดีขึ้น นอกจากนี้จะเรียนรู้เกี่ยวกับวงรอบของการสอน AI (Training Loop) ซึ่งประกอบด้วยการปรับปรุงพารามิเตอร์ของโมเดลในแต่ละขั้นตอนการสอน และ Backpropagation ซึ่งเป็นกระบวนการในการคำนวณและปรับปรุงค่าความผิดพลาด (error) ผ่านการปรับน้ำหนักของเครือข่าย จะได้เรียนรู้เกี่ยวกับ Activation Function ซึ่งเป็นฟังก์ชันที่ใช้ในแต่ละนิวรอนเพื่อเพิ่มความสามารถในการเรียนรู้ของโมเดล นอกจากนี้ยังจะครอบคลุมการวัดประสิทธิภาพของโมเดลเพื่อประเมินผลการเรียนรู้ และการทดสอบและปรับแต่ง (Fine Tune) โมเดล Neural Network แบบง่ายเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด
 
-- Video: [COMING SOON]
-- Code: [COMING SOON]
+- Video: [NextGenAI-2024 | Neural Network #2 ep.1](https://youtu.be/a1eyTeB93ek?si=guEYvRaRLthcoj0H)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #2 ep.2](https://youtu.be/MOak_Pd7ZzU?si=EM8_XbhYVMLX9x4J)
+- Code: [NextGen_AI_Camp_Neural_Network2.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%233/NN%232/NextGen_AI_Camp_Neural_Network2.ipynb)
 
 ### Pandas
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Pandas ซึ่งเป็นไลบรารีสำคัญใน Python สำหรับการจัดการและวิเคราะห์ข้อมูล เริ่มต้นด้วยการทำความเข้าใจ DataFrame ซึ่งเป็นโครงสร้างข้อมูลหลักใน Pandas และวิธีการสร้างและใช้งาน DataFrame จากนั้นจะได้เรียนรู้การอ่านและเขียนข้อมูลจากและไปยังไฟล์ในรูปแบบต่าง ๆ เช่น xlsx และ json นอกจากนี้จะได้เรียนรู้เกี่ยวกับชนิดข้อมูล (Data Type) และวิธีการตรวจสอบข้อมูลด้วยฟังก์ชัน info รวมถึงการใช้ indexing เพื่อเข้าถึงและจัดการข้อมูล จะได้ทำความเข้าใจกับวิธีการจัดการกับข้อมูลที่หายไป (missing data) ด้วยการลบ (Drop) การเติม (Fill) และการแทนที่ (Replace) ข้อมูล สุดท้ายจะครอบคลุมการลบข้อมูลที่ซ้ำซ้อน (Drop duplicate) เพื่อให้ DataFrame มีความถูกต้องและมีคุณภาพมากขึ้น
