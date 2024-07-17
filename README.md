@@ -104,7 +104,7 @@ Week 6:<br />
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Pandas ซึ่งเป็นไลบรารีสำคัญใน Python สำหรับการจัดการและวิเคราะห์ข้อมูล เริ่มต้นด้วยการทำความเข้าใจ DataFrame ซึ่งเป็นโครงสร้างข้อมูลหลักใน Pandas และวิธีการสร้างและใช้งาน DataFrame จากนั้นจะได้เรียนรู้การอ่านและเขียนข้อมูลจากและไปยังไฟล์ในรูปแบบต่าง ๆ เช่น xlsx และ json นอกจากนี้จะได้เรียนรู้เกี่ยวกับชนิดข้อมูล (Data Type) และวิธีการตรวจสอบข้อมูลด้วยฟังก์ชัน info รวมถึงการใช้ indexing เพื่อเข้าถึงและจัดการข้อมูล จะได้ทำความเข้าใจกับวิธีการจัดการกับข้อมูลที่หายไป (missing data) ด้วยการลบ (Drop) การเติม (Fill) และการแทนที่ (Replace) ข้อมูล สุดท้ายจะครอบคลุมการลบข้อมูลที่ซ้ำซ้อน (Drop duplicate) เพื่อให้ DataFrame มีความถูกต้องและมีคุณภาพมากขึ้น
 
 - Video: [NextGenAI-2024 | Pandas](https://youtu.be/Y7mDtsdtZCU)
-- Code: [COMING SOON]
+- Code: [NextGen_AI_Camp_Pandas.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%233/Pandas/NextGen_AI_Camp_Pandas.ipynb)
 
 ### PyTorch
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Pytorch และการใช้งาน tensors ซึ่งเป็นโครงสร้างข้อมูลหลักใน Pytorch รวมถึง ndim, item, และ shape ของ tensors การสร้าง random tensors, zero tensors และ one tensors การใช้ arange, การจัดการ datatype และ dtype การดำเนินการทางคณิตศาสตร์พื้นฐาน เช่น add, sub, multiply, divide, matrix mul การหา max, min, mean, sum ของ tensors การใช้ argmax และ argmin การปรับรูปร่างของ tensors ด้วย reshape และ view รวมถึงการ stack และ indexing การสร้าง tensors จาก NumPy ด้วย from_numpy และการแปลง tensors เป็น NumPy ด้วย .numpy
