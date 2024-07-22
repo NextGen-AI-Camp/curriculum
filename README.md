@@ -111,3 +111,15 @@ Week 6:<br />
 
 - Video: [NextGenAI-2024 | Pytorch #1](https://youtu.be/9QkuU5RSuT8)
 - Code: [NextGen_AI_Camp_PyTorch.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%233/PyTorch/NextGen_AI_Camp_PyTorch.ipynb)
+
+---
+
+## Week 4:
+
+### Neural Network #4
+ในหัวข้อนี้ จะได้เรียนรู้การสร้าง Model Neural Network โดยใช้ Pytorch กับ Dataset จริง ตั้งแต่การเตรียมและแบ่งข้อมูลเพื่อโหลดเข้า Model การสร้าง Model โดยใช้ Pytorch รวมถึงเทคนิคการ Train Model แบบต่างๆ การนำ Model ที่สร้างไปใช้งานจริง วิธีการ Save และ Load Model เพื่อใช้งานต่อไป การประเมินผลโมเดลในหลายรูปแบบ การจัดการกับปัญหา Overfit ด้วยเทคนิคต่างๆ เช่น Dropout และ Regularization และการทำ Data Augmentation เพื่อเพิ่มประสิทธิภาพของ Model
+
+- Video: [NextGenAI-2024 | Neural Network #3 ep.1](https://youtu.be/MnLQoaPt0wg)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #3 ep.2](https://youtu.be/pUBjMdU6PHU)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #3 ep.3](https://youtu.be/jdjrZ38Lw18)
+- Code: [COMING SOON]
