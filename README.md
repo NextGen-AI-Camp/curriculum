@@ -123,3 +123,9 @@ Week 6:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #3 ep.2](https://youtu.be/pUBjMdU6PHU)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #3 ep.3](https://youtu.be/jdjrZ38Lw18)
 - Code: [NextGen_AI_Camp_Neural_Network3.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%234/NN%233/NextGen_AI_Camp_Neural_Network3.ipynb)
+
+### OpenCV #1
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ OpenCV ซึ่งเป็นไลบรารีสำคัญสำหรับการประมวลผลภาพ (image processing) เริ่มต้นด้วยการทำความเข้าใจโครงสร้างจุดภาพ (Pixel) และการจัดเรียงจุดสี (Color pixel) รวมถึงระบบสีต่าง ๆ เช่น RGB และ Gray จะได้เรียนรู้การสร้างอะเรย์ภาพ การเปิดไฟล์ภาพและการบันทึกภาพ นอกจากนี้ จะทำความเข้าใจคุณสมบัติความละเอียดของภาพ (Resolution) และการปรับขนาดภาพ (Resize) รวมถึงการควอนไทซ์ (Quantize) และการจัดการกับ Bit depth การตรวจจับสี (Color detection) และการสร้างฮีสโทแกรมภาพ เพื่อวิเคราะห์การกระจายของสีในภาพ
+
+- Video: [NextGenAI-2024 | OpenCV #1](https://www.youtube.com/watch?v=UeDqQ6aATm4)
+- Code: [COMING SOON]
