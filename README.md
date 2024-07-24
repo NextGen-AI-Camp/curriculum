@@ -128,4 +128,6 @@ Week 6:<br />
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ OpenCV ซึ่งเป็นไลบรารีสำคัญสำหรับการประมวลผลภาพ (image processing) เริ่มต้นด้วยการทำความเข้าใจโครงสร้างจุดภาพ (Pixel) และการจัดเรียงจุดสี (Color pixel) รวมถึงระบบสีต่าง ๆ เช่น RGB และ Gray จะได้เรียนรู้การสร้างอะเรย์ภาพ การเปิดไฟล์ภาพและการบันทึกภาพ นอกจากนี้ จะทำความเข้าใจคุณสมบัติความละเอียดของภาพ (Resolution) และการปรับขนาดภาพ (Resize) รวมถึงการควอนไทซ์ (Quantize) และการจัดการกับ Bit depth การตรวจจับสี (Color detection) และการสร้างฮีสโทแกรมภาพ เพื่อวิเคราะห์การกระจายของสีในภาพ
 
 - Video: [NextGenAI-2024 | OpenCV #1](https://www.youtube.com/watch?v=UeDqQ6aATm4)
-- Code: [COMING SOON]
+- Code: [NextGen_AI_Camp_OpenCV-1.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%234/OpenCV%231/NextGen_AI_Camp_OpenCV-1.ipynb)
+- Slide: [NextGen_AI_Camp_OpenCV.pdf](https://raw.githubusercontent.com/NextGen-AI-Camp/curriculum/main/Week%234/OpenCV%231/NextGen_AI_Camp_OpenCV.pdf)
+
