@@ -121,7 +121,9 @@ Week 6:<br />
 
 - Video: [NextGenAI-2024 | Neural Network #3 ep.1](https://youtu.be/MnLQoaPt0wg)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #3 ep.2](https://youtu.be/pUBjMdU6PHU)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #3 ep.3](https://youtu.be/jdjrZ38Lw18)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | Neural Network #3 ep.3](https://youtu.be/jdjrZ38Lw18)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Loss Function](https://www.youtube.com/watch?v=h1XjpBmmJ_s)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Backpropagation](https://www.youtube.com/watch?v=Pes6YYEIDno)
 - Code: [NextGen_AI_Camp_Neural_Network3.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%234/NN%233/NextGen_AI_Camp_Neural_Network3.ipynb)
 
 ### OpenCV #1
