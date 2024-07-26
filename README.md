@@ -133,3 +133,8 @@ Week 6:<br />
 - Code: [NextGen_AI_Camp_OpenCV-1.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%234/OpenCV%231/NextGen_AI_Camp_OpenCV-1.ipynb)
 - Slide: [NextGen_AI_Camp_OpenCV.pdf](https://raw.githubusercontent.com/NextGen-AI-Camp/curriculum/main/Week%234/OpenCV%231/NextGen_AI_Camp_OpenCV.pdf)
 
+### OpenCV #2
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับการทำงานกับไฟล์วิดีโอใน OpenCV รวมถึงการสร้าง อ่าน และเขียนไฟล์วิดีโอ จะได้ทำความเข้าใจการเพิ่มสัญญาณรบกวน (Noise) ในภาพเพื่อทดสอบการประมวลผลภาพ นอกจากนี้ จะได้เรียนรู้การกรองสัญญาณรบกวนในภาพ (Noise Removal) เพื่อลดผลกระทบของ Noise การตรวจจับเส้นขอบ (Edge Detection) เพื่อระบุวัตถุหรือรูปทรงในภาพ และการใช้ Morphological Operation เพื่อปรับปรุงคุณภาพของภาพและการแยกแยะวัตถุ
+
+- Video: [NextGenAI-2024 | OpenCV #2](https://youtu.be/8uXuPb1oI2E)
+- Code: [COMING-SOON] 
