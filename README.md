@@ -144,16 +144,18 @@ Week 6:<br />
 ## Week 5:
 
 ### CNN #1
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับ Convolutional Neural Networks (CNNs) ซึ่งเป็นโครงข่ายประสาทเทียมที่มีประสิทธิภาพสูงในการประมวลผลภาพ เริ่มจากการทำความเข้าใจ filter mask หรือ kernel และการดำเนินการคอนโวลูชัน (Convolution Operation) ในมิติที่แตกต่างกัน (1D, 2D, Multi-dimension) นอกจากนี้ จะได้เรียนรู้เกี่ยวกับ Convolution Stride, การจัดการปัญหาขอบเขต (Boundary problem) ด้วย Padding และประเภทของ Mask ทั้ง Fixed mask และ Adaptive Mask จะได้ศึกษาโครงสร้างพื้นฐานของ CNN Node ทั้ง conv และ activation รวมถึง Statistical nodes เช่น Max pooling และ Average pooling การปรับพารามิเตอร์ด้วย CNN backpropagation และ MLP layers จะได้เรียนรู้เกี่ยวกับโครงสร้างของ Simple CNN เช่น LeNet และการนำเสนอภาพผลตอบสนองตัวกรอง (Feature map) เพื่อวิเคราะห์การตอบสนองโครงข่าย นอกจากนี้ จะได้เรียนรู้วิธีการคำนวนขนาดโมเดล (จำนวนพารามิเตอร์และหน่วยความจำที่จำเป็นต้องใช้) และเทคนิคการลดขนาดโมเดลเพื่อเพิ่มประสิทธิภาพการประมวลผล
 - Video: [NextGenAI-2024 | CNN #1 (EP.1/3)](https://youtu.be/SprTTU4XI-o)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #1 (EP.2/3)](https://youtu.be/2DNcu4ytgqk)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #1 (EP.3/3)](https://youtu.be/4doFWWNHxnA?si=jQggyhEOQ531JTeX)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN Backpropagation](https://youtu.be/N_Rq9i5r0mo)<br>
 
 
-
 ### CNN #2
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับการสร้างและฝึก Convolutional Neural Networks (CNNs) ด้วย Pytorch เริ่มจากการเตรียมข้อมูลและแบ่งข้อมูลเพื่อโหลดเข้าโมเดล การสร้างโมเดลโดยใช้ Pytorch รวมถึงเทคนิคการฝึกโมเดลแบบต่างๆ การปรับพารามิเตอร์ด้วย CNN backpropagation และการใช้ Loss function ในการฝึกโมเดล นอกจากนี้ จะได้เรียนรู้วิธีการวัดประสิทธิภาพของโมเดลด้วยวิธีต่างๆ เช่น Confusion Matrix และ Mean Squared Error (MSE) เพื่อประเมินและปรับปรุงโมเดลให้มีประสิทธิภาพสูงสุด
 - Video: [Coming soon]
 
 
 ### TorchVision
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับเทคนิคการทำ Data Augmentation ซึ่งเป็นกระบวนการเพิ่มข้อมูลในการฝึกโมเดลโดยการปรับแต่งภาพที่มีอยู่เพื่อเพิ่มความหลากหลายของข้อมูล การเพิ่มสัญญาณรบกวนในภาพเพื่อจำลองความไม่สมบูรณ์ของข้อมูล การใช้ Gaussian Blur เพื่อเพิ่มความเบลอในภาพ การปรับแต่งภาพและมุมมองภาพ (Perspective Adjust) เพื่อจำลองการถ่ายภาพจากมุมมองต่าง ๆ การปรับแต่งการเพี้ยนสี (Color jitter) เพื่อจำลองการเปลี่ยนแปลงของสีที่อาจเกิดขึ้นในสภาพแสงต่าง ๆ และการปรับภาพกลับเฉดสี (Inverted Image) เพื่อเพิ่มความหลากหลายในการแสดงผลของภาพ ซึ่งจะช่วยให้โมเดลสามารถเรียนรู้และปรับตัวกับข้อมูลที่มีความหลากหลายมากขึ้น
 - Video: [Coming soon]
