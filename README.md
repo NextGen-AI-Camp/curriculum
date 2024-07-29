@@ -149,6 +149,8 @@ Week 6:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #1 (EP.2/3)](https://youtu.be/2DNcu4ytgqk)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #1 (EP.3/3)](https://youtu.be/4doFWWNHxnA?si=jQggyhEOQ531JTeX)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN Backpropagation](https://youtu.be/N_Rq9i5r0mo)<br>
+- Code: [NextGen_AI_Camp_CNN#1_SimpleCNN.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%235/CNN%231/NextGenAI_Camp_CNN%231_SimpleCNN.ipynb)
+
 
 
 ### CNN #2
