@@ -155,7 +155,9 @@ Week 6:<br />
 
 ### CNN #2
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับการสร้างและฝึก Convolutional Neural Networks (CNNs) ด้วย Pytorch เริ่มจากการเตรียมข้อมูลและแบ่งข้อมูลเพื่อโหลดเข้าโมเดล การสร้างโมเดลโดยใช้ Pytorch รวมถึงเทคนิคการฝึกโมเดลแบบต่างๆ การปรับพารามิเตอร์ด้วย CNN backpropagation และการใช้ Loss function ในการฝึกโมเดล นอกจากนี้ จะได้เรียนรู้วิธีการวัดประสิทธิภาพของโมเดลด้วยวิธีต่างๆ เช่น Confusion Matrix และ Mean Squared Error (MSE) เพื่อประเมินและปรับปรุงโมเดลให้มีประสิทธิภาพสูงสุด
-- Video: [Coming soon]
+- Video: [NextGenAI-2024 | CNN #2 (EP.1/3)](https://youtu.be/hGEPb3euxCY)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #2 (EP.2/3)](https://youtu.be/UAnt2zDawOU)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #2 (EP.3/3)](https://youtu.be/2DnNq9R4fx4)<br>
 
 
 ### TorchVision
