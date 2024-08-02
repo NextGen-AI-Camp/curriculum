@@ -158,7 +158,8 @@ Week 6:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #2 (EP.2/3)](https://youtu.be/UAnt2zDawOU)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #2 (EP.3/3)](https://youtu.be/2DnNq9R4fx4)<br>
 - Code: [NextGen_AI_Camp_LeNet.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%235/CNN%232/NextGen_AI_Camp_LeNet.ipynb)
-- Test Dataset สำหรับ exercise ท้าย `NextGen_AI_Camp_LeNet.ipynb`: [test_set.zip](https://github.com/NextGen-AI-Camp/curriculum/releases/download/CNN-Exercise-Dataset/test_set.zip)<br>
+- Train Dataset สำหรับ exercise ท้าย `NextGen_AI_Camp_LeNet.ipynb`: [train_set.zip](https://github.com/NextGen-AI-Camp/curriculum/releases/download/CNN2-Exercise-Dataset/train_set.zip)
+- Test Dataset สำหรับ exercise ท้าย `NextGen_AI_Camp_LeNet.ipynb`: [test_set.zip](https://github.com/NextGen-AI-Camp/curriculum/releases/download/CNN2-Exercise-Dataset/test_set.zip)<br>
 โดยข้างในจะประกอบไปด้วย `test_set\` ที่มีรูปภาพสำหรับทดสอบอยู่ข้างใน `groundtruth.csv` ที่มีคอลัมน์แรกเป็นชื่อไฟล์ และคอลัมน์ที่สองเป็น class คำตอบที่คาดหวัง<br>
 ในการสร้างไฟล์ผลลัพธ์การทำนายของโมเดลให้อ้างอิงรูปแบบตาม [sample_submission.csv](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%235/CNN%232/sample_submission.csv)
 
