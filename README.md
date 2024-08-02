@@ -162,4 +162,6 @@ Week 6:<br />
 
 ### TorchVision
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับเทคนิคการทำ Data Augmentation ซึ่งเป็นกระบวนการเพิ่มข้อมูลในการฝึกโมเดลโดยการปรับแต่งภาพที่มีอยู่เพื่อเพิ่มความหลากหลายของข้อมูล การเพิ่มสัญญาณรบกวนในภาพเพื่อจำลองความไม่สมบูรณ์ของข้อมูล การใช้ Gaussian Blur เพื่อเพิ่มความเบลอในภาพ การปรับแต่งภาพและมุมมองภาพ (Perspective Adjust) เพื่อจำลองการถ่ายภาพจากมุมมองต่าง ๆ การปรับแต่งการเพี้ยนสี (Color jitter) เพื่อจำลองการเปลี่ยนแปลงของสีที่อาจเกิดขึ้นในสภาพแสงต่าง ๆ และการปรับภาพกลับเฉดสี (Inverted Image) เพื่อเพิ่มความหลากหลายในการแสดงผลของภาพ ซึ่งจะช่วยให้โมเดลสามารถเรียนรู้และปรับตัวกับข้อมูลที่มีความหลากหลายมากขึ้น
-- Video: [Coming soon]
+- Video: [NextGenAI-2024 | TorchVision](https://youtu.be/2WCNESDUfPY)
+- Code: [NextGen_AI_Camp_TorchVision.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%235/TorchVision/NextGen_AI_Camp_TorchVision.ipynb)
+
