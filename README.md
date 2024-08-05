@@ -29,7 +29,7 @@ Week 5:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[TorchVision](#torchvision)<br />
 
 Week 6:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[CNN Model and Transfer Learning](#cnn-model-and-transfer-learning)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[Transfer Learning](#transfer-learning)<br />
 
 ---
 
@@ -153,7 +153,7 @@ Week 6:<br />
 
 
 ### CNN #2
-ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับการสร้างและฝึก Convolutional Neural Networks (CNNs) ด้วย Pytorch เริ่มจากการเตรียมข้อมูลและแบ่งข้อมูลเพื่อโหลดเข้าโมเดล การสร้างโมเดลโดยใช้ Pytorch รวมถึงเทคนิคการฝึกโมเดลแบบต่างๆ การปรับพารามิเตอร์ด้วย CNN backpropagation และการใช้ Loss function ในการฝึกโมเดล นอกจากนี้ จะได้เรียนรู้วิธีการวัดประสิทธิภาพของโมเดลด้วยวิธีต่างๆ เช่น Confusion Matrix และ Mean Squared Error (MSE) เพื่อประเมินและปรับปรุงโมเดลให้มีประสิทธิภาพสูงสุด
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับการสร้างและฝึก Convolutional Neural Networks (CNNs) ด้วย Pytorch เริ่มจากการเตรียมข้อมูลและแบ่งข้อมูลเพื่อโหลดเข้าโมเดล การสร้างโมเดลโดยใช้ Pytorch รวมถึงเทคนิคการฝึกโมเดลแบบต่างๆ การปรับพารามิเตอร์ด้วย CNN backpropagation และการใช้ Loss function ในการฝึกโมเดล นอกจากนี้ จะได้เรียนรู้วิธีการวัดประสิทธิภาพของโมเดลด้วยวิธีต่างๆ เช่น Confusion Matrix เพื่อประเมินและปรับปรุงโมเดลให้มีประสิทธิภาพสูงสุด
 - Video: [NextGenAI-2024 | CNN #2 (EP.1/3)](https://youtu.be/hGEPb3euxCY)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #2 (EP.2/3)](https://youtu.be/UAnt2zDawOU)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NextGenAI-2024 | CNN #2 (EP.3/3)](https://youtu.be/2DnNq9R4fx4)<br>
@@ -169,5 +169,9 @@ Week 6:<br />
 - Video: [NextGenAI-2024 | TorchVision](https://youtu.be/2WCNESDUfPY)
 - Code: [NextGen_AI_Camp_TorchVision.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%235/TorchVision/NextGen_AI_Camp_TorchVision.ipynb)
 
+---
+## Week 6:
 
-
+### Transfer Learning
+ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับการใช้เทคนิค Transfer Learning เพื่อปรับใช้ความรู้จากโมเดลที่ได้รับการฝึกมาแล้ว (pretrained model) กับแอพพลิเคชันใหม่ๆ โดยเริ่มจากการเลือก pretrained model ที่เหมาะสมกับงานที่ต้องการทำ และการตัดต่อเพิ่ม layer ให้โมเดลมีความเหมาะสมกับการใช้งานที่เฉพาะเจาะจง จะได้เรียนรู้การเตรียมข้อมูลและการแบ่งข้อมูลเพื่อโหลดเข้าโมเดล การสร้างโมเดลโดยใช้ Pytorch รวมถึงเทคนิคการฝึกโมเดลแบบต่างๆ ที่ช่วยให้โมเดลสามารถเรียนรู้และปรับตัวกับข้อมูลใหม่ได้อย่างมีประสิทธิภาพ
+- Video: [NextGenAI-2024 | Transfer Learning](https://www.youtube.com/watch?v=FV8FNnVkifM)
