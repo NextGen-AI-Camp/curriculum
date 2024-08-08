@@ -176,4 +176,6 @@ Week 6:<br />
 ในหัวข้อนี้ จะได้เรียนรู้เกี่ยวกับการใช้เทคนิค Transfer Learning เพื่อปรับใช้ความรู้จากโมเดลที่ได้รับการฝึกมาแล้ว (pretrained model) กับแอพพลิเคชันใหม่ๆ โดยเริ่มจากการเลือก pretrained model ที่เหมาะสมกับงานที่ต้องการทำ และการตัดต่อเพิ่ม layer ให้โมเดลมีความเหมาะสมกับการใช้งานที่เฉพาะเจาะจง จะได้เรียนรู้การเตรียมข้อมูลและการแบ่งข้อมูลเพื่อโหลดเข้าโมเดล การสร้างโมเดลโดยใช้ Pytorch รวมถึงเทคนิคการฝึกโมเดลแบบต่างๆ ที่ช่วยให้โมเดลสามารถเรียนรู้และปรับตัวกับข้อมูลใหม่ได้อย่างมีประสิทธิภาพ
 - Video: [NextGenAI-2024 | Transfer Learning](https://www.youtube.com/watch?v=FV8FNnVkifM)
 - Code: [NextGen_AI_Camp_Transfer_Learnig.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%236/Transfer_Learning/NextGen_AI_Camp_Transfer_Learnig.ipynb)
+- Exercise : [NextGen_AI_Camp_Transfer_Learning_Exercise.ipynb](https://github.com/NextGen-AI-Camp/curriculum/blob/main/Week%236/Transfer_Learning/NextGen_AI_Camp_Transfer_Learning_Exercise.ipynb)
+  - Data : [data.zip ](https://github.com/NextGen-AI-Camp/curriculum/releases/download/Transfer-Learning-Exercise-Dataset/data.zip), [test.zip](https://github.com/NextGen-AI-Camp/curriculum/releases/download/Transfer-Learning-Exercise-Dataset/test.zip)
 
